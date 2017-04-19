@@ -19,7 +19,7 @@ A blockquote:
 
 Duis lacinia commodo dui, vel aliquam metus hendrerit eu. Integer et scelerisque dui. Sed nec molestie quam. Donec sit amet nisl a massa commodo ultrices nec quis nunc. Aenean aliquet eu arcu adipiscing dignissim. Nunc dictum elit vitae dolor molestie aliquet.
 
-
+![enter description here][1]
 Example code:
 
 {% highlight javascript %}
@@ -60,3 +60,6 @@ Pellentesque habitant morbi tristique senectus
 : Duis sodales feugiat lorem et mollis.
 
 Want to suggest something? Please [Send me a request](https://github.com/kronik3r/daktilo/issues/new).
+
+
+  [1]: ./images/Cache_3bafa388adc2a9a4..jpg "Cache_3bafa388adc2a9a4..jpg"
